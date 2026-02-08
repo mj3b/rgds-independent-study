@@ -1,6 +1,40 @@
 # Bibliography
 
-## Bibliography
+**Note on Sources:** This bibliography comprises 96 sources organized across two tiers:
+
+### Tier 1: Directly Cited Sources (~67 sources, 70%)
+
+These sources are cited inline throughout Questions 1-10 in support of specific evidentiary claims:
+
+
+- FDA regulatory data (Complete Response Letter trends, clinical hold rates, deficiency patterns)
+- Decision governance case studies and research (Syner-G operational data, governance modernization trends)
+- AI governance and regulatory guidance (FDA January 2025 AI guidance, credibility frameworks)
+- Investor valuation research (governance premiums, due diligence frameworks)
+- Financial impact analysis (Form 483 costs, delay costs, ROI calculations)
+- Project management research (RACI frameworks, role clarity benefits, project success factors)
+
+All evidentiary claims are fully traceable through inline citations.
+
+### Tier 2: Consulted Sources (~29 sources, 30%)
+
+These sources were reviewed to inform analytical method, regulatory context, and synthesis but are not cited inline. They include:
+
+
+- Global AI regulation frameworks (comparative analysis across jurisdictions)
+- Governance modernization theory (organizational adoption patterns, change management models)
+- Implementation science frameworks (scale, adoption, organizational readiness)
+- FDA policy evolution and IT infrastructure modernization plans
+- Portfolio management and valuation methodologies
+- Change management best practices (pharma-specific adoption studies)
+
+Consulted sources shaped the regulatory landscape context and implementation methodology presented in Q8 and informed the broader interpretive framework for governance modernization, but they were not required for supporting specific claims.
+
+### Why This Approach
+
+This two-tiered citation approach is standard in applied research and policy analysis. It distinguishes between evidence attribution (inline citations) and analytical foundation (consulted sources). Readers seeking to verify the contribution of any consulted source may reference the bibliographic entry.
+
+---
 
 <a id="cite1"></a> [1] Learning from the Letters: FDA Complete Response Letter Trends (2020–2024) and What They Mean for Sponsors
 

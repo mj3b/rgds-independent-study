@@ -1,5 +1,5 @@
 site_name: RGDS — Decision-Centric AI Governance in Biopharma/Biotech Development
-site_description: A decision‑centric AI governance framework for regulated biopharma/biotech programs
+site_description: A decision‑centric AI governance framework for regulated biopharma/biotech programs.
 
 theme:
   name: readthedocs
@@ -18,10 +18,12 @@ nav:
       - 8. Implementation Roadmaps: questions/q8.md
       - 9. AI Governance Disclosure: questions/q9.md
       - 10. Regulatory Evolution: questions/q10.md
+      - Results Overview: questions/results-overview.md 
   - References:
+      - About the Author: references/about-the-author.md
+      - Acknowledgements: references/acknowledgements.md
       - Bibliography: references/bibliography.md
       - Appendix A: references/appendix-a.md
-      - Acknowledgements: references/acknowledgements.md
 
 plugins:
   - search
@@ -31,3 +33,6 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+
+copyright: 
+  Copyright &copy; 2026 Mark Julius Banasihan<br>
