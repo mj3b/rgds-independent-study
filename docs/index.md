@@ -9,13 +9,13 @@ Note: Several tables are intentionally wide to preserve detail. On smaller scree
 | Status | Detail |
 |---|---|
 | Required Now | FDA 2025 guidance requires AI credibility documentation for AI-assisted submissions |
-| Required Later | Broader decision governance or decision documentation remains voluntary today |
+| Current Baseline | Decision governance and decision documentation remain voluntary in most programs today |
 | Predicted Trend | RGDS anticipates FDA may mandate decision documentation by 2027–2030 based on regulatory trajectory and international harmonization *(See Q10: Regulatory Evolution Framework)* |
-| Early Adopter Advantage | Implementing RGDS now positions organizations ahead of potential future regulatory requirements and delivers operational benefits |
+| Early Adopter Advantage | Implementing RGDS now positions organizations ahead of potential future regulatory expectations and delivers operational benefits |
 
 **PORTFOLIO RESEARCH PROJECT**
 
-This documentation was created as an independent research initiative during my job search to demonstrate regulatory affairs and AI governance expertise. It does not represent work performed for any employer.
+This documentation was created as an independent research initiative during my job search to demonstrate regulatory affairs and AI governance expertise. It represents independent work and is unaffiliated with any employer.
 
 ---
 
@@ -66,7 +66,7 @@ The ten research questions that structure this paper reflect recurring challenge
 
 This paper is intended for readers who operate in environments where decisions carry regulatory consequence: regulatory affairs professionals, clinical and CMC leaders, medical writers, project managers, quality and governance specialists, and researchers examining decision-making in high-stakes systems.
 
-This work is an **independent, non-commercial research case study and reference framework**. It is not sponsored, commissioned, or endorsed by any organization.
+This work is an **independent, non-commercial research case study and reference framework** with no sponsor, commission, or endorsement from any organization.
 
 ---
 
@@ -167,7 +167,7 @@ Decision logs are structured as JSON or YAML validated against a JSON Schema. Re
 
 **Principle 4: Non-Agentic AI**
 
-AI does not operate as an autonomous decision-maker. AI-generated content (drafts, summaries, precedent analyses, predictions) is reviewed and approved by human experts. Decision logs include `aiassistance` objects documenting:
+AI operates as an assistive system, never as the accountable decision owner. AI-generated content (drafts, summaries, precedent analyses, predictions) receives review and approval from human experts. Decision logs include `aiassistance` objects documenting:
 
 - **Tool used**
 - **Confidence level**
