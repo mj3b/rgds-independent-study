@@ -1,4 +1,4 @@
-# RGDS: Decision-Centric AI Governance in Biopharma/Biotech Development
+# RGDS Independent Study — Decision Governance for Regulated AI
 ## Research Challenges and Opportunities
 
 ### Regulatory Status (January 2026)
