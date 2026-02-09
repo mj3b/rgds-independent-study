@@ -1,0 +1,6 @@
+
+# local
+.venv/
+
+# mkdocs build output
+site/
