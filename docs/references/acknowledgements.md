@@ -9,7 +9,7 @@ This RGDS framework was developed independently during my career transition (Nov
 **Project Status:** Open source research framework (Apache 2.0 License)  
 **Purpose:** Portfolio showcase and thought leadership contribution to the biopharmaceutical regulatory affairs community
 
-While this work references Syner-G BioPharma Group's industry expertise and contributions to regulatory science, this project was created independently without organizational affiliation or sponsorship.
+This work incorporates insights from publicly available industry materials, including Syner-G BioPharma Group webinar content cited in the bibliography [\[32\]](/references/bibliography/#cite32), alongside regulatory and academic sources.
 
 ---
 
