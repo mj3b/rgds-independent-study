@@ -1,5 +1,5 @@
-site_name: RGDS — Decision-Centric AI Governance in Biopharma/Biotech Development
-site_description: A decision‑centric AI governance framework for regulated biopharma/biotech programs.
+site_name: RGDS — Decision Architecture for Human-Governed AI in Regulated Biopharma
+site_description: An independent research framework examining how structured decision artifacts, evidence discipline, and bounded AI support defensible phase-gate decisions in regulated biopharma and biotech development.
 
 theme:
   name: readthedocs
