@@ -8,7 +8,7 @@ These sources are cited inline throughout Questions 1-10 in support of specific 
 
 
 - FDA regulatory data (Complete Response Letter trends, clinical hold rates, deficiency patterns)
-- Decision governance case studies and research (Syner-G operational data, governance modernization trends)
+- Decision governance case studies and research (public biopharma industry materials, manufacturing control strategy examples, governance modernization trends)
 - AI governance and regulatory guidance (FDA January 2025 AI guidance, credibility frameworks)
 - Investor valuation research (governance premiums, due diligence frameworks)
 - Financial impact analysis (Form 483 costs, delay costs, ROI calculations)
@@ -299,15 +299,15 @@ This two-tiered citation approach is standard in applied research and policy ana
 - Access: FDA inspection basics
 - Status: ✓ Active
 
-<a id="cite32"></a> [32] Manufacturing Control Strategy and CMC Deficiencies
 
-- Published: 2025
-- URL: <https://synergbiopharma.com/process-control-elements>
-- Access: Syner‑G BioPharma Group blog post
+<a id="cite32"></a> [32] Manufacturing Control Strategy and CMC Deficiencies  
+- Adapted from: *Process Control in CMC: Methods & Lifecycle Tools*  
+- Publisher: Syner-G BioPharma Group  
+- Published: 2024  
+- URL: https://synergbiopharma.com/what-is-process-control/  
+- Access: Public biopharma industry blog post  
 - Status: ✓ Active
-
-
-
+  
 
 <a id="cite33"></a> [33] Clinical Data Integration Platforms and EDC Ecosystems (Medidata / Industry Overview)
 
