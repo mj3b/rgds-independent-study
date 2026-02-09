@@ -9,7 +9,7 @@ This RGDS framework was developed independently during my career transition (Nov
 **Project Status:** Open source research framework (Apache 2.0 License)  
 **Purpose:** Portfolio showcase and thought leadership contribution to the biopharmaceutical regulatory affairs community
 
-This work incorporates insights from publicly available industry materials, including Syner-G BioPharma Group webinar content cited in the bibliography [\[32\]](/references/bibliography/#cite32), alongside regulatory and academic sources.
+While this work references Syner-G BioPharma Group's industry expertise and contributions to regulatory science, this project was created independently without organizational affiliation or sponsorship.
 
 ---
 
@@ -77,9 +77,9 @@ This framework represents independent research and analysis developed for educat
 
 **U.S. Food and Drug Administration (FDA):**
 
-The FDA's January 2025 draft guidance on *Considerations for the Use of Artificial Intelligence to Support Regulatory Decision-Making for Drug and Biological Products* [\[10\]](/references/bibliography/#cite10) provided the foundational regulatory scaffolding for RGDS decision governance thinking. This guidance introduced a seven-step framework for assessing AI model credibility [\[46\]](/references/bibliography/#cite46)[\[47\]](/references/bibliography/#cite47)[\[48\]](/references/bibliography/#cite48)[\[51\]](/references/bibliography/#cite51)[\[52\]](/references/bibliography/#cite52), which directly informed RGDS's emphasis on decision defensibility and reconstructability.
+The FDA's January 2025 draft guidance on *Considerations for the Use of Artificial Intelligence to Support Regulatory Decision-Making for Drug and Biological Products* [\[10\]](bibliography/#cite10) provided the foundational regulatory scaffolding for RGDS decision governance thinking. This guidance introduced a seven-step framework for assessing AI model credibility [\[46\]](bibliography/#cite46)[\[47\]](bibliography/#cite47)[\[48\]](bibliography/#cite48)[\[51\]](bibliography/#cite51)[\[52\]](bibliography/#cite52), which directly informed RGDS's emphasis on decision defensibility and reconstructability.
 
-Recognition of decision reconstructability challenges in FDA Form 483 observations [\[38\]](/references/bibliography/#cite38) helped crystallize the core RGDS thesis: that regulatory deficiencies often stem not from scientific capability, but from ambiguous decision rationale and incomplete evidence documentation.
+Recognition of decision reconstructability challenges in FDA Form 483 observations [\[38\]](bibliography/#cite38) helped crystallize the core RGDS thesis: that regulatory deficiencies often stem not from scientific capability, but from ambiguous decision rationale and incomplete evidence documentation.
 
 The FDA's support for early regulatory engagement on novel governance frameworks signaled openness to non-traditional approaches to AI accountability in drug development.
 
@@ -95,31 +95,31 @@ The FDA's support for early regulatory engagement on novel governance frameworks
 
 **Academic & Research Institutions:**
 
-- **Tufts Center for the Study of Drug Development (CSDD)** [\[35\]](/references/bibliography/#cite35): Financial impact analysis of development delays informed ROI modeling
+- **Tufts Center for the Study of Drug Development (CSDD)** [\[35\]](bibliography/#cite35): Financial impact analysis of development delays informed ROI modeling
 - **Duke-Margolis Institute for Health Policy** [referenced in FDA guidance development]: December 2022 expert workshop on AI in drug development informed FDA's 2025 guidance trajectory
 - **MIT Sloan Executive Education** [referenced for AI strategy frameworks]: Enterprise AI roadmap development informed decision-centric approaches
 
 **Industry Consulting & Analysis Firms:**
 
-- **Lumanity, McKinsey, Deloitte** [\[56\]](/references/bibliography/#cite56)[\[78\]](/references/bibliography/#cite78): Analysis of FDA trends, portfolio management ROI, and regulatory strategy optimization
-- **Analysis Group** [\[25\]](/references/bibliography/#cite25)[\[77\]](/references/bibliography/#cite77): Biotech asset valuation methodologies and multi-dimensional due diligence frameworks
-- **Generate Capital** [\[80\]](/references/bibliography/#cite80): Transition acceleration frameworks and capital allocation strategies in life sciences
+- **Lumanity, McKinsey, Deloitte** [\[56\]](bibliography/#cite56)[\[78\]](bibliography/#cite78): Analysis of FDA trends, portfolio management ROI, and regulatory strategy optimization
+- **Analysis Group** [\[25\]](bibliography/#cite25)[\[77\]](bibliography/#cite77): Biotech asset valuation methodologies and multi-dimensional due diligence frameworks
+- **Generate Capital** [\[80\]](bibliography/#cite80): Transition acceleration frameworks and capital allocation strategies in life sciences
 
 **Professional Organizations:**
 
-- **RAPS (Regulatory Affairs Professionals Society)** [\[71\]](/references/bibliography/#cite71): Professional perspectives on regulatory compliance, AI governance, and innovation
-- **FDLI (FDA Law Institute)** [\[49\]](/references/bibliography/#cite49): Legal frameworks for AI in drug development
-- **ISPE (International Society for Pharmaceutical Engineering)** [\[14\]](/references/bibliography/#cite14): Industry guidance on project management, quality systems, and process control
+- **RAPS (Regulatory Affairs Professionals Society)** [\[71\]](bibliography/#cite71): Professional perspectives on regulatory compliance, AI governance, and innovation
+- **FDLI (FDA Law Institute)** [\[49\]](bibliography/#cite49): Legal frameworks for AI in drug development
+- **ISPE (International Society for Pharmaceutical Engineering)** [\[14\]](bibliography/#cite14): Industry guidance on project management, quality systems, and process control
 
 **Software & Technology Vendors:**
 
-- **Certara (eCTD expertise)** [\[6\]](/references/bibliography/#cite6)[\[59\]](/references/bibliography/#cite59): Electronic submission standards and AI-assisted medical writing platforms
+- **Certara (eCTD expertise)** [\[6\]](bibliography/#cite6)[\[59\]](bibliography/#cite59): Electronic submission standards and AI-assisted medical writing platforms
 - **Veeva, MasterControl:** Enterprise portfolio management and document control tools referenced for governance infrastructure
 - **GitHub:** Decision log repository infrastructure and version control methodologies
 
 **Biopharmaceutical Industry:**
 
-- **Syner-G BioPharma Group** [\[32\]](/references/bibliography/#cite32): Manufacturing control strategy and CMC deficiency case studies; webinar insights on IND submission best practices
+- **Syner-G BioPharma Group** [\[32\]](bibliography/#cite32): Manufacturing control strategy and CMC deficiency case studies; webinar insights on IND submission best practices
 - Referenced case studies from public earnings calls and regulatory announcements across biotech/biopharma sectors
 - Industry feedback on portfolio management, governance challenges, and competitive positioning
 
@@ -129,25 +129,25 @@ The FDA's support for early regulatory engagement on novel governance frameworks
 
 **Decision Architecture & Project Management:**
 
-- **RACI/DACI Decision Frameworks** [\[16\]](/references/bibliography/#cite16)[\[17\]](/references/bibliography/#cite17): Human review and approval chain structure informed RGDS decision ownership models
-- **Kanban, Planview** [\[22\]](/references/bibliography/#cite22)[\[79\]](/references/bibliography/#cite79)[\[83\]](/references/bibliography/#cite83): Portfolio and resource management methodologies informed phase-gate governance architecture
-- **Critical Path Method** [\[18\]](/references/bibliography/#cite18): Managing project duration and constraints informed timeline optimization modeling
+- **RACI/DACI Decision Frameworks** [\[16\]](bibliography/#cite16)[\[17\]](bibliography/#cite17): Human review and approval chain structure informed RGDS decision ownership models
+- **Kanban, Planview** [\[22\]](bibliography/#cite22)[\[79\]](bibliography/#cite79)[\[83\]](bibliography/#cite83): Portfolio and resource management methodologies informed phase-gate governance architecture
+- **Critical Path Method** [\[18\]](bibliography/#cite18): Managing project duration and constraints informed timeline optimization modeling
 
 **Data Science, Machine Learning & Transparency:**
 
-- **FDA recognition of explainability and interpretability challenges** [\[10\]](/references/bibliography/#cite10)[\[46\]](/references/bibliography/#cite46)[\[48\]](/references/bibliography/#cite48)[\[69\]](/references/bibliography/#cite69): Informed AI governance disclosure sections and credibility assessment frameworks
+- **FDA recognition of explainability and interpretability challenges** [\[10\]](bibliography/#cite10)[\[46\]](bibliography/#cite46)[\[48\]](bibliography/#cite48)[\[69\]](bibliography/#cite69): Informed AI governance disclosure sections and credibility assessment frameworks
 - **SHAP values, saliency maps, interpretability surrogate methods:** Referenced as transparency tools for model behavior explanation
 
 **Financial Analysis & ROI Quantification:**
 
-- **Portfolio NPV and probability-of-success modeling:** Informed financial ROI calculations in [Appendix A](/references/appendix-a/)
-- **Governance premiums and investor valuation adjustments** [\[11\]](/references/bibliography/#cite11)[\[41\]](/references/bibliography/#cite41)[\[42\]](/references/bibliography/#cite42): Demonstrated investor confidence correlation with transparent decision governance
+- **Portfolio NPV and probability-of-success modeling:** Informed financial ROI calculations in [Appendix A](appendix-a/)
+- **Governance premiums and investor valuation adjustments** [\[11\]](bibliography/#cite11)[\[41\]](bibliography/#cite41)[\[42\]](bibliography/#cite42): Demonstrated investor confidence correlation with transparent decision governance
 
 **Regulatory & Compliance Infrastructure:**
 
-- **eCTD standards and Module 1 specifications** [\[54\]](/references/bibliography/#cite54)[\[59\]](/references/bibliography/#cite59)[\[60\]](/references/bibliography/#cite60)[\[63\]](/references/bibliography/#cite63): Electronic submission architecture and data integrity frameworks
-- **FDA inspection frameworks and Form 483 observations** [\[31\]](/references/bibliography/#cite31)[\[38\]](/references/bibliography/#cite38): Quality systems and compliance documentation best practices
-- **CDER Quality Management Maturity (QMM)** [\[39\]](/references/bibliography/#cite39): Regulatory readiness assessment and governance maturity models
+- **eCTD standards and Module 1 specifications** [\[54\]](bibliography/#cite54)[\[59\]](bibliography/#cite59)[\[60\]](bibliography/#cite60)[\[63\]](bibliography/#cite63): Electronic submission architecture and data integrity frameworks
+- **FDA inspection frameworks and Form 483 observations** [\[31\]](bibliography/#cite31)[\[38\]](bibliography/#cite38): Quality systems and compliance documentation best practices
+- **CDER Quality Management Maturity (QMM)** [\[39\]](bibliography/#cite39): Regulatory readiness assessment and governance maturity models
 
 ---
 
@@ -155,21 +155,21 @@ The FDA's support for early regulatory engagement on novel governance frameworks
 
 **AI in Drug Development:**
 
-- **AI in Clinical Trials** [\[67\]](/references/bibliography/#cite67)[\[68\]](/references/bibliography/#cite68): FDA compliance roadmaps and transparency requirements
-- **AI in Software as Medical Device (SaMD)** [\[64\]](/references/bibliography/#cite64)[\[72\]](/references/bibliography/#cite72): Device software governance and AI model oversight
-- **AI Readiness Assessment Frameworks** [\[65\]](/references/bibliography/#cite65): Organizational readiness and capability evaluation
+- **AI in Clinical Trials** [\[67\]](bibliography/#cite67)[\[68\]](bibliography/#cite68): FDA compliance roadmaps and transparency requirements
+- **AI in Software as Medical Device (SaMD)** [\[64\]](bibliography/#cite64)[\[72\]](bibliography/#cite72): Device software governance and AI model oversight
+- **AI Readiness Assessment Frameworks** [\[65\]](bibliography/#cite65): Organizational readiness and capability evaluation
 
 **Regulatory Science & Policy:**
 
-- **FDA Guidance Documents in Development** [\[28\]](/references/bibliography/#cite28)[\[55\]](/references/bibliography/#cite55)[\[57\]](/references/bibliography/#cite57): Regulatory landscape trajectory and future policy directions
-- **PDUFA VIII Reauthorization (Fiscal Years 2028–2032)** [\[58\]](/references/bibliography/#cite58): Congressional policy context for regulatory evolution
-- **FDA's IT Operating Plan** [\[91\]](/references/bibliography/#cite91): Regulatory agency modernization and digital transformation initiatives
+- **FDA Guidance Documents in Development** [\[28\]](bibliography/#cite28)[\[55\]](bibliography/#cite55)[\[57\]](bibliography/#cite57): Regulatory landscape trajectory and future policy directions
+- **PDUFA VIII Reauthorization (Fiscal Years 2028–2032)** [\[58\]](bibliography/#cite58): Congressional policy context for regulatory evolution
+- **FDA's IT Operating Plan** [\[91\]](bibliography/#cite91): Regulatory agency modernization and digital transformation initiatives
 
 **Change Management & Adoption:**
 
-- **AI Adoption Hurdles & Change Management** [\[90\]](/references/bibliography/#cite90): Hidden barriers to AI implementation in enterprises
-- **Copilot Adoption Rollout Strategies** [\[81\]](/references/bibliography/#cite81): 12 vs. 24-week implementation timelines for pharma organizations
-- **Implementation Science & Scale** [\[86\]](/references/bibliography/#cite86): Achieving organizational adoption and sustained use
+- **AI Adoption Hurdles & Change Management** [\[90\]](bibliography/#cite90): Hidden barriers to AI implementation in enterprises
+- **Copilot Adoption Rollout Strategies** [\[81\]](bibliography/#cite81): 12 vs. 24-week implementation timelines for pharma organizations
+- **Implementation Science & Scale** [\[86\]](bibliography/#cite86): Achieving organizational adoption and sustained use
 
 ---
 
@@ -200,8 +200,8 @@ The FDA's support for early regulatory engagement on novel governance frameworks
 - **Source:** `docs/index.md` derived from `rgds_site_citefix 2`
 - **Last updated:** 2026-01-09
 - **Change note:** Formatting normalized for web rendering. AI assistance disclosure added with transparent methodology and appropriate disclaimers. Claude and Perplexity contributions documented. Wording and citations preserved from original research synthesis.
-- **Bibliography location:** See [complete bibliography](/references/bibliography/)
-- **Financial analysis appendix:** See [Appendix A: Financial Impact & ROI Analysis](/references/appendix-a/)
+- **Bibliography location:** See [complete bibliography](bibliography/)
+- **Financial analysis appendix:** See [Appendix A: Financial Impact & ROI Analysis](appendix-a/)
 
 ---
 
@@ -242,31 +242,31 @@ Complete license texts for all third-party software can be found in the [THIRD_P
 
 ### For Regulatory Submissions:
 
-Use FDA sources [\[10\]](/references/bibliography/#cite10)[\[46\]](/references/bibliography/#cite46)[\[47\]](/references/bibliography/#cite47)[\[48\]](/references/bibliography/#cite48) as regulatory precedent for decision governance in FDA meetings and pre-IND submissions. Reference industry analyses [\[56\]](/references/bibliography/#cite56)[\[71\]](/references/bibliography/#cite71) to establish regulatory trend data and competitive positioning.
+Use FDA sources [\[10\]](bibliography/#cite10)[\[46\]](bibliography/#cite46)[\[47\]](bibliography/#cite47)[\[48\]](bibliography/#cite48) as regulatory precedent for decision governance in FDA meetings and pre-IND submissions. Reference industry analyses [\[56\]](bibliography/#cite56)[\[71\]](bibliography/#cite71) to establish regulatory trend data and competitive positioning.
 
 ### For Internal Communications & Board Presentations:
 
-Reference industry analysis sources [\[22\]](/references/bibliography/#cite22)[\[25\]](/references/bibliography/#cite25)[\[78\]](/references/bibliography/#cite78)[\[79\]](/references/bibliography/#cite79) for executive presentations on regulatory trends and portfolio management strategies. Cite case studies from consultancy reports [\[77\]](/references/bibliography/#cite77)[\[80\]](/references/bibliography/#cite80) for business case development and ROI justification. See [Appendix A](/references/appendix-a/) for detailed financial impact modeling.
+Reference industry analysis sources [\[22\]](bibliography/#cite22)[\[25\]](bibliography/#cite25)[\[78\]](bibliography/#cite78)[\[79\]](bibliography/#cite79) for executive presentations on regulatory trends and portfolio management strategies. Cite case studies from consultancy reports [\[77\]](bibliography/#cite77)[\[80\]](bibliography/#cite80) for business case development and ROI justification. See [Appendix A](appendix-a/) for detailed financial impact modeling.
 
 ### For Thought Leadership & Publication:
 
-Leverage academic sources [\[35\]](/references/bibliography/#cite35)[\[86\]](/references/bibliography/#cite86) for regulatory science publications and peer-reviewed contributions. Reference RAPS, FDLI, and law firm analyses [\[14\]](/references/bibliography/#cite14)[\[49\]](/references/bibliography/#cite49)[\[71\]](/references/bibliography/#cite71) for regulatory professional credibility and legal compliance frameworks.
+Leverage academic sources [\[35\]](bibliography/#cite35)[\[86\]](bibliography/#cite86) for regulatory science publications and peer-reviewed contributions. Reference RAPS, FDLI, and law firm analyses [\[14\]](bibliography/#cite14)[\[49\]](bibliography/#cite49)[\[71\]](bibliography/#cite71) for regulatory professional credibility and legal compliance frameworks.
 
 ### For Implementation Planning & Change Management:
 
-Use change management and adoption sources [\[81\]](/references/bibliography/#cite81)[\[90\]](/references/bibliography/#cite90) for organizational rollout roadmaps and stakeholder engagement strategies. Reference portfolio management sources [\[22\]](/references/bibliography/#cite22)[\[79\]](/references/bibliography/#cite79)[\[83\]](/references/bibliography/#cite83) for phase-gate governance architecture and decision framework implementation.
+Use change management and adoption sources [\[81\]](bibliography/#cite81)[\[90\]](bibliography/#cite90) for organizational rollout roadmaps and stakeholder engagement strategies. Reference portfolio management sources [\[22\]](bibliography/#cite22)[\[79\]](bibliography/#cite79)[\[83\]](bibliography/#cite83) for phase-gate governance architecture and decision framework implementation.
 
 ### For Regulatory Intelligence & Horizon Scanning:
 
-Reference FDA guidance development pipeline [\[28\]](/references/bibliography/#cite28)[\[55\]](/references/bibliography/#cite55)[\[57\]](/references/bibliography/#cite57)[\[58\]](/references/bibliography/#cite58) to anticipate regulatory trends and policy trajectories. Use regulatory trend analyses [\[56\]](/references/bibliography/#cite56)[\[92\]](/references/bibliography/#cite92) to inform long-term strategy development and competitive positioning.
+Reference FDA guidance development pipeline [\[28\]](bibliography/#cite28)[\[55\]](bibliography/#cite55)[\[57\]](bibliography/#cite57)[\[58\]](bibliography/#cite58) to anticipate regulatory trends and policy trajectories. Use regulatory trend analyses [\[56\]](bibliography/#cite56)[\[92\]](bibliography/#cite92) to inform long-term strategy development and competitive positioning.
 
 ---
 
 ## Research Integrity & Attribution
 
-This work synthesizes publicly available research, regulatory guidance, industry analysis, and professional best practices. All direct citations reference the [complete bibliography](/references/bibliography/) entries [1–96], with attribution provided throughout the framework.
+This work synthesizes publicly available research, regulatory guidance, industry analysis, and professional best practices. All direct citations reference the [complete bibliography](bibliography/) entries [1–96], with attribution provided throughout the framework.
 
-Where RGDS extends or reinterprets existing frameworks (e.g., FDA's seven-step credibility framework), this extension is explicitly noted, and the original source is cited. Financial analysis methodology and ROI modeling details are documented in [Appendix A](/references/appendix-a/).
+Where RGDS extends or reinterprets existing frameworks (e.g., FDA's seven-step credibility framework), this extension is explicitly noted, and the original source is cited. Financial analysis methodology and ROI modeling details are documented in [Appendix A](appendix-a/).
 
 **AI-Assisted Research:** This project utilized Claude (Anthropic), Perplexity Deep Research, ChatGPT, and GitHub Copilot to accelerate research, framework development, and documentation. All AI-generated content was critically reviewed, validated against primary sources, and iteratively refined. This framework is provided for informational purposes under the Apache 2.0 License. Users should independently verify all content and consult appropriate professionals for specific applications.
 
@@ -290,8 +290,8 @@ This RGDS framework is provided for informational and educational purposes only 
 
 ## Citation Key
 
-All inline citations follow this format: `[\[N\]](/references/bibliography/#citeN)` where N refers to the bibliography entry number.
+All inline citations follow this format: `[\[N\]](bibliography/#citeN)` where N refers to the bibliography entry number.
 
-To view full citation details, visit the **[Bibliography](/references/bibliography/)** page.
+To view full citation details, visit the **[Bibliography](bibliography/)** page.
 
-For detailed financial analysis and ROI calculations, see **[Appendix A: Financial Impact & ROI Analysis](/references/appendix-a/)**.
+For detailed financial analysis and ROI calculations, see **[Appendix A: Financial Impact & ROI Analysis](appendix-a/)**.

@@ -1,131 +1,106 @@
 ## About the Author
 
-**Mark Julius Banasihan** is a decision systems designer and AI governance researcher focused on how high-stakes organizations preserve accountability when advanced AI enters real decision loops. Based in Atlanta, Georgia, he designs decision-first governance architectures that keep human authority explicit, reviewable, and defensible—especially in regulated, phase-gated environments where evidence chains, risk posture, and approval lineage must survive scrutiny months or years later.
+**Mark Julius Banasihan** is a decision systems designer and AI governance strategist with over 15 years of experience translating complexity into clarity across technology, organizational psychology, and regulated product development. Based in Atlanta, Georgia, he specializes in bridging the tension between speed and accountability by designing human-centered frameworks where AI meaningfully supports high-stakes decisions without eroding human authority or regulatory defensibility.
 
-His work sits at the intersection of **systems thinking, organizational psychology, and technical evaluation**. The throughline is consistent: when AI fails in production, the root cause is rarely model capability alone. It is usually a breakdown in **decision discipline**—unclear ownership, implicit assumptions, untracked evidence gaps, and accountability that diffuses across meetings, tools, and teams.
+His professional tagline captures his philosophy:
 
-**Professional focus:** Translating complex technical behavior into governance structures that produce durable, auditable decisions.
+**Translating Complexity into Clarity | AI, Data & Systems Thinking | Bridging Technology, Psychology & Organizational Design.**
 
----
+### The Journey: From Operations to Decision Discipline
 
-### Research Orientation: Decision Governance as Reliability Infrastructure
+Mark's career trajectory reveals a deliberate intellectual evolution:
 
-Mark’s current research agenda treats decision governance as *reliability infrastructure* for AI-enabled operations. He examines how organizations can:
+**Phase 1: Cross-Functional Operations & Systems Leadership (15+ years)**
 
-- document phase-gate decisions contemporaneously (not after the fact),
-- separate evidence from interpretation,
-- enforce abstention when evidence is insufficient,
-- preserve singular, named accountability under uncertainty,
-- and maintain an audit-ready trail from source evidence to decision outcome.
+At T-Mobile, Mailchimp/Intuit, and through AdvisoryCloud, Mark developed deep expertise in managing dependencies, timelines, and complex handoffs across engineering, operations, and leadership teams. Key insight: **most failures occur not at individual nodes, but at the intersections where teams depend on each other.**
 
-This orientation underpins his independent study work on **Regulated Gate Decision Support (RGDS)**—a reference implementation that makes decision reconstructability and decision defensibility first-class system requirements.
+This experience taught him to:
 
----
+
+- Map workflows obsessively, surfacing where friction accumulates
+- Build communication frameworks that move decisions through systems without distortion
+- Recognize when processes fail—and whether the root cause is capability, clarity, or alignment
+
+**Phase 2: AI Strategy in Enterprise & Life Sciences (Current)**
+
+Through roles supporting AI transformation at major organizations (including potential partnership with Syner-G BioPharma Group as a Principal AI Business Analyst, Business Process & Analysis), Mark observed a consistent failure pattern: **AI systems that demonstrate capability in research frequently fail in production, not because models underperform, but because decision discipline and governance break down once systems leave controlled environments.**
+
+This insight became the seed for RGDS.
+
+**Phase 3: Applied Research Translation & Responsible AI Governance (Current)**
+
+Mark now focuses on bridging the gap between "this worked in research" and "we can approve this in production." His approach:
+
+
+- Extract explicit, falsifiable claims from published research
+- Define bounded tasks with constraints, failure modes, and oversight points
+- Enforce abstention when evidence is insufficient
+- Produce audit-ready decision artifacts with traced rationale
+
+Rather than treating AI as an autonomous actor, he designs it as a bounded analytical instrument—one that accelerates evidence synthesis while preserving human judgment.
 
 ### Intellectual Foundation
 
-**Harvard University, Extension School (in progress):**  
-Bachelor of Liberal Arts (ALB) in Social Sciences, with emphasis on Industrial-Organizational Psychology and systems-level decision-making. Mark returned to formal study deliberately: to formalize the behavioral, organizational, and decision-science foundations behind the delivery systems he has led in practice. Coursework emphasizes evidence-based writing, proctored evaluation, and disciplined reasoning—supporting a shift from applied intuition to theory-grounded governance design.
+**Formal Education:**
 
-**Computational Neuroscience — Neural Computation and Learning (Dec 2025 – Present):**  
-Ongoing research-oriented study of neural coding, spiking dynamics, and learning in biological networks, using computational modeling to understand how intelligent systems process information and fail. Undertaken to inform work on AI reliability, decision support, and human accountability in complex systems.  
-*Coursera · University of Washington*
+**Harvard University, Extension School** (in progress): Bachelor of Liberal Arts (ALB) in Social Sciences, concentration in Industrial-Organizational Psychology and systems-level thinking. Academic focus examines how organizations form and evolve categories of knowledge, how networks shape discovery, and how cognitive and organizational diversity foster innovation. **Status:** Met "Earn Your Way In" criteria; eligible for Spring 2026 formal degree candidacy.
 
-**MIT Sloan Executive Education (2019):**  
-Certificate in *Artificial Intelligence: Implications for Business Strategy*. Developed and defended an enterprise AI roadmap addressing governance, operating model, investment sequencing, and organizational risk trade-offs. Capstone received “Exceptional” recognition.
 
-**Computer Science Certificates (2018–2024):**  
-Completed graded CS50 coursework in computer science, databases, Python, and applied AI via edX with assessed assignments and final projects—grounding his governance work in system fundamentals rather than abstraction.
 
----
+**University of Washington, Computational Neuroscience** (in progress): Coursera course on how systems take in signals, process information, and learn over time. Practical exercises in Matlab, Octave, and Python. Purpose: deeply understand how modern AI systems work, where they fail, and how to clearly explain behavior and limits to technical and non-technical audiences.
 
-### Research-Grade Technical Formation in AI Evaluation & Governance
 
-Mark’s governance work is reinforced by research-oriented technical training that made AI reliability failures legible at the mechanism level.
 
-#### AI Research Foundations — Large Language Models: Training, Evaluation & Responsible Methods (Oct 2025 – Jan 2026)
+**Massachusetts Institute of Technology, MIT Sloan Executive Education** (2019): Certificate in Artificial Intelligence: Implications for Business Strategy. Capstone: enterprise AI roadmap. Recognition: "Exceptional" on final submission.
 
-This sequence transformed Mark’s understanding of AI failure from experiential knowledge into traceable explanation. Building language models from scratch clarified a recurring production pattern he had observed for years: systems can look excellent under familiar tests, then fail silently when conditions shift.
 
-Key technical insights included:
 
-- **Statistical baselines** can generate confident, plausible outputs by pattern memorization, then collapse when those patterns no longer apply—an operational analogy for brittle generalization in enterprise deployments.
-- **Tokenization and representation** explain why specialized language degrades: common terms remain intact while domain terminology can fragment into pieces that the model never learns as a coherent unit.
-- **Training and evaluation discipline** revealed how data curation decisions surface as invisible biases in model behavior—and why metrics can mislead when training context diverges from deployment reality.
+**Harvard University, Computer Science (CS50)** (2018–2024): Completed CS50, CS50 SQL, CS50 Python, CS50 AI via edX with graded assignments and final projects—emphasizing algorithm design, data structures, and applied AI fundamentals.
 
-He completed the program to strengthen two capabilities that matter in regulated contexts: (1) the discipline to interrogate assumptions, and (2) evaluation rigor that survives scrutiny.
 
-Credential IDs: 21592788, 21612472  
-Google DeepMind AI Research Foundations, co-designed with learning scientists at University College London (UCL)
 
-Featured deliverables include:
+**Research & Practice Framework:**
 
-- **Technical Foundations: Training & Evaluating a Small Transformer**  
-  Built and evaluated a language model from scratch to understand how architectural and data decisions shape real model behavior beyond headline metrics.
+Mark approaches AI governance using principles from decision science, systems theory, and organizational psychology—not AI optimization alone. His mental models are informed by:
 
-- **Evaluation as Governance: Context Sensitivity, Bias, & Deployment Risk**  
-  Used multi-criteria evaluation to show how data curation choices propagate into model behavior—and how those insights inform AI governance and oversight design.
 
-#### AI Research Foundations — Data Representation: Tokenization, Embeddings & Ethical Dataset Design (Oct 2025 – Jan 2026)
-
-This work shifted focus earlier than model outputs—to the **data layer**, where decisions shape what a model can learn before training begins. Mark built tokenizers and studied embedding structure to make representation behavior visible. The central conclusion was practical: **bias is often a data governance problem before it becomes a model problem.**
-
-The ethical dimension was explored through language equity case studies and documentation practices, including Data Cards methodology. In regulated industries, the parallel is direct: sourcing, consent, completeness, and accountability are governance obligations, whether the domain is biopharma, telecom, or financial systems.
-
-Credential ID: 21614205  
-Google DeepMind AI Research Foundations, co-designed with learning scientists at University College London (UCL)
-
-#### AI Research Foundations — Neural Network Training, Generalization & Responsible Deployment (Oct 2025 – Jan 2026)
-
-Mark implemented attention mechanisms and trained models to understand how systems learn what to prioritize—and where constraints emerge in practice (context windows, computational scaling). The program also required community-centered design deliverables, which extended his governance lens beyond technical performance: the same system can be simultaneously beneficial, harmful, and disruptive depending on who experiences it.
-
-Two written deliverables synthesized these insights into governance practice:
-
-- **Impact Statement Card**  
-  Structured analysis connecting responsible deployment insights to RGDS governance design: AI assists without deciding; evidence completeness is declared; safeguards reduce over-reliance on confidence metrics.
-
-- **Anticipation Memo: LLMs in Ugandan Education**  
-  Governance analysis applying the Ubuntu principle (“I am because we are”) to assess risks when AI-mediated learning displaces relational mentorship and communal formation.
-
-Credential ID: 21722492  
-Google DeepMind AI Research Foundations, co-designed with University College London (UCL)
-
-#### AI Research Foundations — Transformer Architecture, Attention Mechanisms & Community-Centered Design (Oct 2025 – Jan 2026)
-
-This work paired a technical insight with a governance imperative. Attention mechanisms enabled modern language models by learning what matters within a sequence; community-centered design clarified a different question: **whose voices matter in system design, oversight, and accountability.**
-
-Stakeholder mapping exercises surfaced a recurring structural reality in high-stakes domains: the groups bearing the highest stakes often hold the lowest influence. Mark translated those findings into participation methods designed to be falsifiable in practice: *would the framework change without this engagement?* If it changes nothing, the engagement was performative.
-
-Credential ID: 21739896  
-Google DeepMind AI Research Foundations, co-designed with learning scientists at University College London (UCL)
-
----
+- Disciplined experimental design (clear hypotheses, testable claims, failure modes)
+- Regulatory frameworks (FDA guidance, audit defensibility, traceability)
+- Organizational dynamics (stakeholder skepticism, change resistance, trust-building)
 
 ### Core Expertise
 
-**Decision Architecture & Non-Agentic AI Governance**
-- Designing decision-first governance for regulated, phase-gated workflows  
-- Formalizing decision discipline through schema enforcement, evidence classification, and immutable audit trails  
-- Bounding AI to analytical support roles (summarization, extraction, comparison, synthesis)  
-- Preserving singular human accountability through named ownership, explicit scope, and recorded approvals  
+**Decision Architecture & Non-Agentic AI Governance:**
 
-**Applied AI Research Translation**
-- Extracting explicit, falsifiable claims from published research  
-- Defining bounded tasks with constraints, failure modes, and oversight points  
-- Enforcing abstention when evidence is insufficient  
-- Producing decision-ready evidence artifacts with traceability  
 
-**AI-Assisted Workflow Design & Change Management**
-- Identifying where teams lose time, context, and clarity (evidence synthesis, version control, protocol alignment, submission assembly)  
-- Designing tools that reduce friction without forcing adoption  
-- Building trust by making governance visible, testable, and audit-ready  
-- Treating skepticism as rational and designing contained pilots with clear success metrics  
+- Designing decision-first (not automation-first) frameworks for regulated, phase-gated workflows
+- Formalizing decision discipline through schema enforcement, evidence classification, and immutable audit trails
+- Building governance boundaries that keep AI in analytical support roles (summarization, extraction, comparison, synthesis)
+- Preserving singular human accountability even in AI-assisted workflows
 
-**Executive Communication & Decision Analytics**
-- Translating technical complexity into decision narratives leaders can act on  
-- Structuring insights around: what was learned, what decision is needed, what risk follows delay  
-- Building decision-ready dashboards that reveal patterns without overwhelming detail  
-- Reducing time-to-decision by strengthening confidence in evidence and logic  
+**Applied AI Research Translation:**
+
+
+- Extracting explicit, falsifiable claims from published research
+- Defining bounded tasks with constraints, failure modes, and oversight points
+- Enforcing abstention when evidence is insufficient
+- Mapping research signals to decision-ready evidence with full traceability
+
+**AI-Assisted Workflow Design & Change Management:**
+
+
+- Identifying where teams lose time, context, or clarity (evidence synthesis, version control, protocol alignment, regulatory submission assembly)
+- Designing tools that respect how humans actually work—not forcing adoption, but removing friction through iteration
+- Building trust in AI-assisted systems by making governance explicit, transparent, and audit-ready
+- Managing stakeholder skepticism by treating caution as reasonable and designing small, contained pilots with clear success metrics
+
+**Executive Communication & Decision Analytics:**
+
+
+- Translating technical complexity into narratives leaders can act on
+- Structuring insights around three core points: what we learned, what decision is needed, what risk we face if we defer
+- Building decision-ready dashboards that reveal patterns without overwhelming detail
+- Reducing time-to-decision through clarity and trust in underlying data and logic
 
 ---
 
@@ -135,44 +110,119 @@ RGDS emerged from a central research question:
 
 **How can high-stakes, regulated organizations use artificial intelligence to support phase-gate decisions without undermining human authority, regulatory accountability, or audit defensibility?**
 
-More specifically: **Can AI accelerate evidence synthesis and decision velocity without becoming the decision-maker?**
+More specifically: **Can AI meaningfully accelerate decisions without becoming the decision-maker?**
 
-**Development**
-- **v1.0–v1.2:** Baseline decision discipline, IND workflow refinement, governance boundaries  
-- **v1.3–v1.4:** Governance maturity, evidence completeness states, author-at-risk modeling, cross-program intelligence  
-- **v2.0 (in progress):** Expanded logs, analytics, and governance artifacts  
+**Development:**
 
-**Reference Implementations**
-- Schema-validated decision logs enforcing structured evidence and risk articulation  
-- Canonical examples demonstrating accept, conditional-go, no-go, and defer outcomes  
-- Governance covenants defining AI boundaries and human approval checkpoints  
-- Translation-negative examples proving the framework enforces rigor rather than rationalizing predetermined outcomes  
-- Audit-ready artifacts with traceability from evidence to decision to rationale  
 
-**Core Principles**
-1. AI never makes decisions—only provides bounded analytical support  
-2. Human authority is explicit and recorded (named owner, defined scope)  
-3. Evidence precedes outcomes (no decision without documented evidence states)  
-4. Uncertainty is acknowledged (confidence levels, gaps, and risks recorded explicitly)  
-5. The system remains valid without AI (decision architecture does not collapse if AI is removed)  
+- **v1.0–v1.2:** Baseline decision discipline, IND workflow refinement, governance boundaries
+- **v1.3–v1.4:** Governance maturity, evidence completeness states, author-at-risk modeling, cross-program intelligence
+- **v2.0** (in progress): Expanded logs, analytics, and governance artifacts
+
+**Reference Implementations:**
+
+
+- Schema-validated decision logs enforcing structured evidence and risk articulation
+- Canonical examples demonstrating accept, conditional-go, no-go, and defer outcomes
+- Governance covenants defining AI boundaries and human approval checkpoints
+- Translation-negative examples proving the framework enforces rigor (rejecting weak claims) rather than rationalizing predetermined outcomes
+- Audit-ready artifacts with full traceability from evidence to decision to rationale
+
+**Core Principles:**
+
+
+1. AI never makes decisions—only provides bounded analytical support
+2. Human authority is explicit and recorded (named owner, defined scope)
+3. Evidence precedes outcomes (no decision without documented evidence states)
+4. Uncertainty is acknowledged, not hidden (confidence levels, gaps, risks recorded explicitly)
+5. The system remains valid without AI (decision architecture doesn't collapse if AI is removed)
+
+---
+
+### Hands-On AI Project Experience
+
+Beyond research, Mark has designed and deployed AI-assisted systems across enterprise and technical contexts:
+
+**AI Log Diagnostic Tool** (Insight Global, 2025): Evolved from LLM-based classification to context-aware automation. Processed records with ~80% alignment vs. manual tagging; enabled engineering teams to shift focus from "What failed?" to "How do we fix it faster?" Demonstrated how phased rollout (manual → supervised → automated) builds trust faster than chasing end-to-end automation upfront.
+
+**JUNO: AI Analyst for Delivery Decisions** (2025): Agentic design combining Jira context, sprint analytics, and narrative generation to surface risks and regressions before retros surface them. Built on principle: **help teams think better, not just track more.**
+
+**NAVO: Microsoft Teams Knowledge Discovery Bot** (2025): Agentic RAG system transforming Teams into a conversational interface for enterprise documentation (Confluence, SharePoint). Demonstrates modern tool use for orchestrating information access directly in workflow context.
+
+**Algorithmic Trading Research Lab** (2025–present): Independent initiative exploring multi-agent systems, governance under uncertainty, and how transparency and oversight can align machine precision with human ethics. Deliberate focus on failure modes and human-in-the-loop validation.
+
+**AI Research Foundations** (Google DeepMind & UCL, 2025–present): University-level curriculum on language models, transformers, evaluation, and responsible AI. Research contributions include implementing n-gram baselines, training small transformer models in Keras, and operationalizing responsible AI practices (bias tracking, model cards, HITL validation).
 
 ---
 
 ### Working Philosophy
 
-Mark’s approach rests on several non-negotiable principles:
+Mark's approach rests on several non-negotiable principles:
 
-1. **People define correctness.** Domain experts define what counts as correct. Mark’s role is helping that correctness move through systems, tools, and processes without dilution or distortion.  
-2. **Structure protects judgment.** Strong decision frameworks reduce avoidable errors and repetitive work so experts can focus on questions that truly require expertise.  
-3. **Technology should adapt to humans.** Adoption succeeds when tools reduce friction in real workflows and remain accountable to how people actually work.  
-4. **Skepticism is rational in high-stakes settings.** Trust is earned through discipline, transparency, and respect for stakeholder obligations and risk posture.  
-5. **Explicit governance beats implicit governance.** Defensible systems make ownership, assumptions, dependencies, and uncertainty visible, reviewable, and traceable.  
+
+1. **People define correctness.** Domain experts (scientists, regulatory specialists, engineers) define what counts as correct. Mark's role is helping that correctness move through systems, tools, and processes without dilution or distortion.
+
+
+2. **Structure protects judgment.** Decision frameworks succeed when they reduce avoidable errors, repetitive work, and context-switching—freeing human experts to focus on questions that truly require their expertise and judgment.
+
+
+3. **Technology should adapt to humans, not the reverse.** When AI tools don't fit how people actually work, adoption fails. Success requires observing friction, iterating in feedback loops, and making tools invisible support rather than friction sources.
+
+
+4. **Skepticism in high-stakes environments is rational.** In regulated, high-consequence settings, caution about new methods is a feature, not a bug. Earning trust means demonstrating discipline, transparency, and genuine respect for stakeholders' obligations and comfort levels.
+
+
+5. **Governance made explicit beats governance made implicit.** The most defensible systems are those where decision ownership, assumptions, dependencies, and uncertainty are made visible, reviewable, and traceable—not hidden in meetings or email threads.
 
 ---
 
-### Connect
+### Thought Leadership & Communication
 
-- **GitHub:** https://github.com/mj3b  
-- **LinkedIn:** https://linkedin.com/in/markjuliusbanasihan/  
-- **Email:** markjuliusbanasihan@gmail.com  
+Mark actively contributes to conversations on decision-centric AI, responsible governance, and the human future of work:
+
+- **Decision Discipline:** Frameworks for making decisions explicit, reviewable, and owned before downstream commitments crystallize
+
+
+- **Applied Research Translation:** Extracting falsifiable claims from published research and translating them into decision-ready evidence
+
+
+- **AI Change Management:** Building trust in skeptical organizations through small pilots, transparent boundaries, and human-in-the-loop validation
+
+
+- **Executive Communication:** Teaching leaders to cut noise and focus on what matters—what we learned, what decision is needed, what risk we face if we defer
+
+
+- **Systems Thinking:** Exploring how organizations form and evolve categories of knowledge, and how networks and diversity shape innovation
+
+---
+
+### Current Work & Availability
+
+Mark is actively available for:
+
+- **Consulting engagements** on decision governance, AI integration strategy, and change management in regulated delivery
+
+
+- **Implementation partnerships** to pilot RGDS in biopharmaceutical and biotech organizations with Syner-G or equivalent delivery partners
+
+
+- **Speaking opportunities** at industry conferences (DIA, RAPS, ACRP, etc.) on decision-centric AI governance, evidence-based decision architecture, and non-agentic AI in regulated environments
+
+
+- **Collaborative research** exploring how organizations make governance explicit, defensible, and scalable while maintaining regulatory accountability
+
+He views RGDS not as a finished product or proprietary asset, but as a foundation—a reference model for decision-centric AI adoption that other organizations can validate, adapt, and extend within their own regulatory and operational contexts.
+
+## Connect
+
+- **GitHub:** [https://github.com/mj3b](https://github.com/mj3b)
+- **LinkedIn:** [https://linkedin.com/in/markjuliusbanasihan/](https://linkedin.com/in/markjuliusbanasihan/)
+- **Email:** [markjuliusbanasihan@gmail.com](mailto:markjuliusbanasihan@gmail.com)
 - **Location:** Atlanta, Georgia, United States
+
+---
+
+
+### Why This Matters for Syner-G BioPharma Group Partnership
+
+Mark views RGDS not as proprietary intellectual property to hoard, but as a foundation for collaborative scaling. He is actively seeking implementation partnerships with organizations like Syner-G that have the regulatory expertise, delivery infrastructure, and client relationships to pilot, validate, and extend RGDS within real biopharmaceutical programs. Success for Mark means watching the framework evolve through contact with practitioners—and ensuring that the clients who adopt it gain competitive advantage through defensible, efficient decision-making in an increasingly AI-enabled regulatory environment for biotech and biopharma innovation.
