@@ -1,5 +1,5 @@
-mkdocs
-mkdocs-material
+mkdocs>=1.5
+mkdocs-material>=9.5
 mkdocs-awesome-pages-plugin
 mkdocs-glightbox
 pymdown-extensions
