@@ -1,6 +1,5 @@
-
-# local
 .venv/
-
-# mkdocs build output
 site/
+__pycache__/
+.DS_Store
+
