@@ -26,18 +26,20 @@ This documentation was created as an independent research initiative during my j
 - [Introduction to RGDS](#introduction-to-rgds)
 - [RGDS Research Questions](#rgds-research-questions)
 
+### Research Questions
 
-- [How can biopharma/biotech organizations reconstruct decision logic when FDA requests justification months or years after decisions were made?](questions/q1/)
-- [How can AI-assisted regulatory processes preserve human accountability while leveraging AI's efficiency gains?](questions/q2/)
-- [How can decision governance frameworks integrate with existing biopharma/biotech project management practices without adding bureaucratic overhead?](questions/q3/)
-- [How can schema-validated decision logs reduce FDA deficiency rates and clinical hold risks?](questions/q4/)
-- [How can decision cycle time be compressed while maintaining decision quality and regulatory defensibility?](questions/q5/)
-- [How will decision governance reshape regulatory interactions, investor due diligence, and board governance in biopharma/biotech development?](questions/q6/)
-- [How can organizations measure the ROI of decision governance infrastructure across portfolio-level timelines and outcomes?](questions/q7/)
-- [How should implementation roadmaps balance pilot validation, organizational integration, and thought leadership positioning?](questions/q8/)
-- [How can AI governance disclosure frameworks satisfy evolving FDA expectations for transparency in algorithmic decision-making?](questions/q9/)
-- [How should regulatory frameworks evolve to mandate or incentivize decision documentation as standard practice in biopharma/biotech submissions?](questions/q10/)
+1. **Q1.** [How can biopharma/biotech organizations reconstruct decision logic when FDA requests justification months or years after decisions were made?](questions/q1/)
+2. **Q2.** [How can AI-assisted regulatory processes preserve human accountability while leveraging AI's efficiency gains?](questions/q2/)
+3. **Q3.** [How can decision governance frameworks integrate with existing biopharma/biotech project management practices without adding bureaucratic overhead?](questions/q3/)
+4. **Q4.** [How can schema-validated decision logs reduce FDA deficiency rates and clinical hold risks?](questions/q4/)
+5. **Q5.** [How can decision cycle time be compressed while maintaining decision quality and regulatory defensibility?](questions/q5/)
+6. **Q6.** [How will decision governance reshape regulatory interactions, investor due diligence, and board governance in biopharma/biotech development?](questions/q6/)
+7. **Q7.** [How can organizations measure the ROI of decision governance infrastructure across portfolio-level timelines and outcomes?](questions/q7/)
+8. **Q8.** [How should implementation roadmaps balance pilot validation, organizational integration, and thought leadership positioning?](questions/q8/)
+9. **Q9.** [How can AI governance disclosure frameworks satisfy evolving FDA expectations for transparency in algorithmic decision-making?](questions/q9/)
+10. **Q10.** [How should regulatory frameworks evolve to mandate or incentivize decision documentation as standard practice in biopharma/biotech submissions?](questions/q10/)
 
+### References
 
 - [About the author](references/about-the-author/)
 - [Acknowledgements](references/acknowledgements/)
@@ -45,6 +47,7 @@ This documentation was created as an independent research initiative during my j
 - [Bibliography](references/bibliography/)
 
 ---
+
 
 ## Foreword by Mark Julius Banasihan
 
