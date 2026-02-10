@@ -35,7 +35,6 @@ This documentation was created as an independent research initiative during my j
 - [Q8. Implementation roadmaps](questions/q8/)
 - [Q9. AI governance disclosure](questions/q9/)
 - [Q10. Regulatory evolution](questions/q10/)
-- [Results overview](questions/results-overview/)
 
 - [About the author](references/about-the-author/)
 - [Acknowledgements](references/acknowledgements/)
