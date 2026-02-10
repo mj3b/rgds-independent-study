@@ -21,6 +21,11 @@ This documentation was created as an independent research initiative during my j
 
 ## Contents
 
+- [Foreword](#foreword-by-mark-julius-banasihan)
+- [Preface](#preface)
+- [Introduction to RGDS](#introduction-to-rgds)
+- [RGDS Research Questions](#rgds-research-questions)
+
 - [How can biopharma/biotech organizations reconstruct decision logic when FDA requests justification months or years after decisions were made?](questions/q1/)
 - [How can AI-assisted regulatory processes preserve human accountability while leveraging AI's efficiency gains?](questions/q2/)
 - [How can decision governance frameworks integrate with existing biopharma/biotech project management practices without adding bureaucratic overhead?](questions/q3/)
