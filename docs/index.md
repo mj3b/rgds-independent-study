@@ -26,6 +26,7 @@ This documentation was created as an independent research initiative during my j
 - [Introduction to RGDS](#introduction-to-rgds)
 - [RGDS Research Questions](#rgds-research-questions)
 
+
 - [How can biopharma/biotech organizations reconstruct decision logic when FDA requests justification months or years after decisions were made?](questions/q1/)
 - [How can AI-assisted regulatory processes preserve human accountability while leveraging AI's efficiency gains?](questions/q2/)
 - [How can decision governance frameworks integrate with existing biopharma/biotech project management practices without adding bureaucratic overhead?](questions/q3/)
@@ -36,6 +37,7 @@ This documentation was created as an independent research initiative during my j
 - [How should implementation roadmaps balance pilot validation, organizational integration, and thought leadership positioning?](questions/q8/)
 - [How can AI governance disclosure frameworks satisfy evolving FDA expectations for transparency in algorithmic decision-making?](questions/q9/)
 - [How should regulatory frameworks evolve to mandate or incentivize decision documentation as standard practice in biopharma/biotech submissions?](questions/q10/)
+
 
 - [About the author](references/about-the-author/)
 - [Acknowledgements](references/acknowledgements/)
