@@ -21,21 +21,16 @@ This documentation was created as an independent research initiative during my j
 
 ## Contents
 
-- [Foreword](#foreword-by-mark-julius-banasihan)
-- [Preface](#preface)
-- [Introduction](#introduction-to-rgds)
-
-- [Q1. Decision reconstructability](questions/q1/)
-- [Q2. AI accountability](questions/q2/)
-- [Q3. Integration without overhead](questions/q3/)
-- [Q4. Schema validation](questions/q4/)
-- [Q5. Decision cycle compression](questions/q5/)
-- [Q6. Governance reshaping](questions/q6/)
-- [Q7. ROI measurement](questions/q7/)
-- [Q8. Implementation roadmaps](questions/q8/)
-- [Q9. AI governance disclosure](questions/q9/)
-- [Q10. Regulatory evolution](questions/q10/)
-- [Results overview](questions/results-overview/)
+- [How can biopharma/biotech organizations reconstruct decision logic when FDA requests justification months or years after decisions were made?](questions/q1/)
+- [How can AI-assisted regulatory processes preserve human accountability while leveraging AI's efficiency gains?](questions/q2/)
+- [How can decision governance frameworks integrate with existing biopharma/biotech project management practices without adding bureaucratic overhead?](questions/q3/)
+- [How can schema-validated decision logs reduce FDA deficiency rates and clinical hold risks?](questions/q4/)
+- [How can decision cycle time be compressed while maintaining decision quality and regulatory defensibility?](questions/q5/)
+- [How will decision governance reshape regulatory interactions, investor due diligence, and board governance in biopharma/biotech development?](questions/q6/)
+- [How can organizations measure the ROI of decision governance infrastructure across portfolio-level timelines and outcomes?](questions/q7/)
+- [How should implementation roadmaps balance pilot validation, organizational integration, and thought leadership positioning?](questions/q8/)
+- [How can AI governance disclosure frameworks satisfy evolving FDA expectations for transparency in algorithmic decision-making?](questions/q9/)
+- [How should regulatory frameworks evolve to mandate or incentivize decision documentation as standard practice in biopharma/biotech submissions?](questions/q10/)
 
 - [About the author](references/about-the-author/)
 - [Acknowledgements](references/acknowledgements/)
