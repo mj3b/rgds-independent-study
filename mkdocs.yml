@@ -1,7 +1,5 @@
-site_name: RGDS Independent Study — Decision Governance for Regulated AI
-site_description: Independent research on decision reconstructability, governance evidence, and audit-ready controls for AI-assisted work in regulated development.
-
-site_url: https://mj3b.github.io/rgds-independent-study/
+site_name: RGDS — Decision-Centric AI Governance in Biopharma/Biotech Development
+site_description: A decision‑centric AI governance framework for regulated biopharma/biotech programs.
 
 theme:
   name: readthedocs
