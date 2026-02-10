@@ -3,3 +3,6 @@ site/
 __pycache__/
 .DS_Store
 
+
+# local build artifacts
+.tmp_zip_rgds/
