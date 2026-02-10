@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>9. AI Governance Disclosure - RGDS — Decision-Centric AI Governance in Biopharma/Biotech Development</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "9. AI Governance Disclosure";
+        var mkdocs_page_input_path = "questions/q9.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../.." class="icon icon-home"> RGDS — Decision-Centric AI Governance in Biopharma/Biotech Development
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Research Questions</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../q1/">1. Decision Reconstructability</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../q2/">2. AI Accountability</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../q3/">3. Integration Without Overhead</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../q4/">4. Schema Validation & Risk Reduction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../q5/">5. Decision Velocity</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../q6/">6. Strategic Reshaping</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../q7/">7. ROI Measurement</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../q8/">8. Implementation Roadmaps</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">9. AI Governance Disclosure</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#9-how-can-ai-governance-disclosure-frameworks-satisfy-evolving-fda-expectations-for-transparency-in-algorithmic-decision-making">9. How can AI governance disclosure frameworks satisfy evolving FDA expectations for transparency in algorithmic decision-making?</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#answer-in-brief">Answer in brief</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#the-fdas-january-2025-ai-guidance-context-and-implications">The FDA's January 2025 AI Guidance: Context and Implications</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#rgds-as-ai-governance-disclosure-framework">RGDS as AI Governance Disclosure Framework</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#rgds-ai-disclosure-in-fda-submissions-module-1-integration">RGDS AI Disclosure in FDA Submissions: Module 1 Integration</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#open-research-questions-on-ai-governance-disclosure">Open Research Questions on AI Governance Disclosure</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#in-sum-what-this-data-says-about-question-9">In sum: what this data says about Question 9</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../q10/">10. Regulatory Evolution</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../results-overview/">Results Overview</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">References</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../references/about-the-author/">About the Author</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../references/acknowledgements/">Acknowledgements</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../references/bibliography/">Bibliography</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../references/appendix-a/">Appendix A</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">RGDS — Decision-Centric AI Governance in Biopharma/Biotech Development</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Research Questions</li>
+      <li class="breadcrumb-item active">9. AI Governance Disclosure</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="research-question-9">Research Question 9<a class="headerlink" href="#research-question-9" title="Permanent link">&para;</a></h1>
+<h2 id="9-how-can-ai-governance-disclosure-frameworks-satisfy-evolving-fda-expectations-for-transparency-in-algorithmic-decision-making">9. How can AI governance disclosure frameworks satisfy evolving FDA expectations for transparency in algorithmic decision-making?<a class="headerlink" href="#9-how-can-ai-governance-disclosure-frameworks-satisfy-evolving-fda-expectations-for-transparency-in-algorithmic-decision-making" title="Permanent link">&para;</a></h2>
+<h3 id="answer-in-brief">Answer in brief<a class="headerlink" href="#answer-in-brief" title="Permanent link">&para;</a></h3>
+<p>FDA's January 2025 draft guidance on AI use in drug development makes explicit what was implicit: sponsors must document not just what AI tools were used, but how their outputs were validated, what human experts reviewed them, where AI over‑interpreted or failed, and who ultimately took responsibility for regulatory decisions. RGDS addresses this by embedding a structured <code>aiassistance</code> object into every decision log—capturing tool identity and version, task purpose, confidence metrics (e.g., 87 F1‑score), human review process across multiple tiers, specific sections where humans overrode AI output with rationale, and final sign‑off by qualified experts. This schema maps directly onto FDA's 7‑step credibility framework for AI models (define question, determine context of use, assess risk, develop plan, execute validation, document results, determine adequacy) and enables sponsors to <strong>demonstrate FDA compliance at the moment of decision, not retrospectively</strong>. In practice, when FDA inspectors ask during pre‑approval audits "Show me your quality control for this AI‑generated content," organizations using RGDS can retrieve a complete governance record in minutes: which tool, what confidence, which human reviewers found issues, what they corrected, and why the final version is trustworthy. This governance does not eliminate validation obligations or make poor AI use acceptable—it <strong>only makes AI involvement transparent and bounded within human oversight</strong>—but that alone positions sponsors ahead of the compliance curve as FDA expectations harden.</p>
+<hr />
+<h3 id="the-fdas-january-2025-ai-guidance-context-and-implications">The FDA's January 2025 AI Guidance: Context and Implications<a class="headerlink" href="#the-fdas-january-2025-ai-guidance-context-and-implications" title="Permanent link">&para;</a></h3>
+<p><strong>The Regulatory Moment:</strong> On January 7, 2025, the FDA issued <strong>draft guidance</strong> on "Considerations for the Use of Artificial Intelligence to Support Regulatory Decision-Making for Drug and Biological Products"—the <strong>first comprehensive FDA guidance specifically addressing AI use in drug and biologics development</strong><a href="../references/bibliography/#cite46">[46]</a> <a href="../references/bibliography/#cite47">[47]</a> <a href="../references/bibliography/#cite48">[48]</a>. This guidance represents a pivotal regulatory moment: AI is no longer a discretionary innovation tool but a <strong>regulated decision-making capability</strong> subject to <strong>explicit FDA oversight</strong><a href="../references/bibliography/#cite47">[47]</a> <a href="../references/bibliography/#cite49">[49]</a> <a href="../references/bibliography/#cite50">[50]</a>.</p>
+<p><strong>The 7-Step Credibility Assessment Framework:</strong></p>
+<p>The FDA's guidance proposes a <strong>risk-based, 7-step framework</strong> for establishing AI model credibility. Importantly, this framework is <strong>directly compatible with RGDS decision governance</strong> because both share a core principle: <strong>transparency through documented decision-making</strong><a href="../references/bibliography/#cite51">[51]</a> <a href="../references/bibliography/#cite52">[52]</a> <a href="../references/bibliography/#cite47">[47]</a>.</p>
+<p>The 7 steps:</p>
+<blockquote>
+<ol>
+<li>
+<p><strong>Define the Question of Interest</strong> — Specify the regulatory question the AI model will address (e.g., "Will manufacturing process X meet specification for assay range?") <a href="../references/bibliography/#cite47">[47]</a> <a href="../references/bibliography/#cite51">[51]</a></p>
+</li>
+<li>
+<p><strong>Determine Context of Use (COU)</strong> — Specify role, scope, and boundaries of AI application (e.g., "AI predicts yield; human specialist validates prediction; AI cannot independently approve batch") <a href="../references/bibliography/#cite47">[47]</a> <a href="../references/bibliography/#cite52">[52]</a></p>
+</li>
+<li>
+<p><strong>Assess Model Risk</strong> — Evaluate model influence (degree of autonomy) and decision consequence (severity if model makes error) <a href="../references/bibliography/#cite51">[51]</a> <a href="../references/bibliography/#cite47">[47]</a></p>
+</li>
+<li>
+<p><strong>Develop Credibility Plan</strong> — Plan validation activities, specify success criteria, outline monitoring approach<a href="../references/bibliography/#cite47">[47]</a> <a href="../references/bibliography/#cite52">[52]</a></p>
+</li>
+<li>
+<p><strong>Execute the Plan</strong> — Conduct validation studies, gather evidence, document deviations<a href="../references/bibliography/#cite47">[47]</a></p>
+</li>
+<li>
+<p><strong>Document Results</strong> — Prepare credibility assessment report showing: model description, training data sources, performance metrics, bias analysis, limitations<a href="../references/bibliography/#cite51">[51]</a> <a href="../references/bibliography/#cite52">[52]</a></p>
+</li>
+<li>
+<p><strong>Determine Adequacy</strong> — Assess whether AI model's performance is sufficient for intended COU<a href="../references/bibliography/#cite47">[47]</a></p>
+</li>
+</ol>
+</blockquote>
+<p><strong>Key FDA Expectations (from January 2025 guidance) <a href="../references/bibliography/#cite47">[47]</a> <a href="../references/bibliography/#cite52">[52]</a> <a href="../references/bibliography/#cite49">[49]</a> <a href="../references/bibliography/#cite50">[50]</a>:</strong></p>
+<ul>
+<li><strong>Transparency:</strong> Sponsors must clearly articulate how AI models generate outputs; "black-box" predictions require explainability analysis</li>
+<li><strong>Human Oversight:</strong> AI outputs inform decisions; human experts retain final authority</li>
+<li><strong>Data Quality:</strong> Training data must be representative, documented, with bias analysis</li>
+<li><strong>Validation:</strong> Model performance tested across diverse populations and conditions</li>
+<li><strong>Monitoring:</strong> Ongoing performance tracking post-deployment to detect degradation</li>
+<li><strong>Disclosure:</strong> Sponsors must document AI involvement in regulatory submissions</li>
+</ul>
+<h4 id="rgds-as-ai-governance-disclosure-framework">RGDS as AI Governance Disclosure Framework<a class="headerlink" href="#rgds-as-ai-governance-disclosure-framework" title="Permanent link">&para;</a></h4>
+<p><strong>RGDS directly addresses FDA's AI transparency expectations</strong> through the <strong><code>aiassistance</code> object</strong> in decision logs. Recall the structure from Question 2:</p>
+<p>Note: Several JSON code samples are intentionally shown in full without wrapping. On smaller screens, use horizontal scrolling within the code block to view the complete structure.</p>
+<pre><code class="language-json">{
+  &quot;aiassistance&quot;: {
+    &quot;used&quot;: true,
+    &quot;tool&quot;: &quot;CoAuthor (Certara), v3.2&quot;,
+    &quot;purpose&quot;: &quot;Draft Module 2.6.7 toxicology summary from source GLP reports&quot;,
+    &quot;disclosure&quot;: &quot;Module 2.6.7 section drafted by CoAuthor AI; F1-score 87% vs. human baseline&quot;,
+
+    &quot;toolcharacteristics&quot;: {
+      &quot;modeltype&quot;: &quot;Large language model fine-tuned on pharma nonclinical summaries&quot;,
+      &quot;trainingdata&quot;: &quot;1,200 published GLP tox reports + 500 FDA-approved nonclinical summaries&quot;,
+      &quot;performancebenchmarks&quot;: {
+        &quot;factualaccuracy&quot;: &quot;92% (verified against source reports)&quot;,
+        &quot;severityinterpretation&quot;: &quot;76% (subjective; requires human override)&quot;,
+        &quot;clinicalrelevanceassertion&quot;: &quot;71% (requires human review for scientific validity)&quot;
+      },
+      &quot;knownlimitations&quot;: [
+        &quot;Lacks access to histopathology context; may over-interpret transaminase elevations&quot;,
+        &quot;Cannot perform species-specific reference range comparison without explicit input&quot;,
+        &quot;May over-weight statistical significance without biological plausibility assessment&quot;
+      ]
+    },
+
+    &quot;humanreview&quot;: [
+      {
+        &quot;tier&quot;: &quot;Author Review&quot;,
+        &quot;reviewer&quot;: &quot;Senior Medical Writer (15 years experience)&quot;,
+        &quot;findings&quot;: &quot;3 sections flagged for human override due to over-interpretation of severity&quot;
+      },
+      {
+        &quot;tier&quot;: &quot;Toxicology SME Review&quot;,
+        &quot;reviewer&quot;: &quot;PhD Toxicologist (FDA inspection experience)&quot;,
+        &quot;findings&quot;: &quot;Confirmed 100% factual accuracy; validated human-rewritten severity interpretations&quot;
+      }
+    ],
+
+    &quot;humanoverride&quot;: [
+      {
+        &quot;section&quot;: &quot;Liver toxicity assessment&quot;,
+        &quot;aioutput&quot;: &quot;Elevated liver enzymes indicate clinically significant hepatotoxicity&quot;,
+        &quot;humanoverride&quot;: &quot;Enzymes elevated without histological damage; adaptive response, not adverse effect&quot;,
+        &quot;rationale&quot;: &quot;AI lacked histopathology context showing no hepatocyte necrosis&quot;
+      }
+    ],
+
+    &quot;riskassessment&quot;: {
+      &quot;modeltrust&quot;: &quot;High for factual assertions; Medium for severity interpretation&quot;,
+      &quot;confidencelevel&quot;: &quot;87% F1-score overall; acceptable for regulatory submission with human validation&quot;
+    }
+  }
+}
+</code></pre>
+<p><strong>How RGDS Satisfies FDA's 7-Step Framework:</strong></p>
+<p><strong>FDA Step 1 (Define Question): RGDS Compliance</strong></p>
+<ul>
+<li>Decision log captures: "What is the regulatory question the AI is addressing?"</li>
+<li><code>aiassistance.purpose</code> field explicitly states: "Draft Module 2.6.7 toxicology summary"</li>
+<li>Decision owner documents: "AI addresses medical writing efficiency; human experts retain scientific judgment"</li>
+</ul>
+<p><strong>FDA Step 2 (Determine COU): RGDS Compliance</strong></p>
+<ul>
+<li><code>aiassistance.disclosure</code> specifies: "CoAuthor drafts sections; Senior Medical Writer + Toxicology SME review; final section signed by qualified expert"</li>
+<li>Human role explicitly documented: AI is <strong>not autonomous</strong>; humans make final medical/scientific determinations</li>
+</ul>
+<p><strong>FDA Step 3 (Assess Risk): RGDS Compliance</strong></p>
+<ul>
+<li><code>aiassistance.riskassessment</code> documents: "High trust for factual assertions (92% accuracy); Medium trust for severity interpretation (76% accuracy)"</li>
+<li>Risk articulation: "Sections requiring severity judgment flagged for mandatory human override"</li>
+</ul>
+<p><strong>FDA Step 4 (Develop Credibility Plan): RGDS Compliance</strong></p>
+<ul>
+<li><code>aiassistance.humanreview</code> documents: "Two independent human experts reviewed all AI-generated content; specific validation approach documented"</li>
+<li>Success criteria: "100% factual accuracy validated; all severity interpretations reviewed by toxicology SME"</li>
+</ul>
+<p><strong>FDA Step 5 (Execute Plan): RGDS Compliance</strong></p>
+<ul>
+<li><code>aiassistance.humanreview</code> provides execution evidence: "Senior Medical Writer reviewed X assertions; Toxicology SME validated Y findings"</li>
+<li>Deviations documented: "AI over-interpreted severity in 3 sections; corrected by human expert"</li>
+</ul>
+<p><strong>FDA Step 6 (Document Results): RGDS Compliance</strong></p>
+<ul>
+<li>
+<p>Decision log is the <strong>credibility assessment report</strong> documenting:</p>
+</li>
+<li>
+<p>AI tool characteristics</p>
+</li>
+<li>
+<p>Training data sources</p>
+</li>
+<li>
+<p>Performance benchmarks</p>
+</li>
+<li>
+<p>Human review process</p>
+</li>
+<li>
+<p>Override rationale</p>
+</li>
+<li>
+<p>Known limitations</p>
+</li>
+</ul>
+<p><strong>FDA Step 7 (Determine Adequacy): RGDS Compliance</strong></p>
+<ul>
+<li><code>aiassistance.riskassessment</code> concludes: "87% F1-score acceptable for regulatory submission when paired with systematic human review"</li>
+<li>Final approval: "Medical Director confirms AI-assisted content meets regulatory quality standards"</li>
+</ul>
+<hr />
+<h3 id="rgds-ai-disclosure-in-fda-submissions-module-1-integration">RGDS AI Disclosure in FDA Submissions: Module 1 Integration<a class="headerlink" href="#rgds-ai-disclosure-in-fda-submissions-module-1-integration" title="Permanent link">&para;</a></h3>
+<p><strong>Future State (anticipated 2026–2027):</strong> FDA will likely request AI disclosure documentation in <strong>Module 1 (Regional Information)</strong> of eCTD submissions<a href="../references/bibliography/#cite46">[46]</a> <a href="../references/bibliography/#cite48">[48]</a> <a href="../references/bibliography/#cite53">[53]</a>. RGDS decision logs provide this documentation <strong>at the point of decision</strong>, not retrospectively.</p>
+<p><strong>Proposed eCTD Module 1 Integration:</strong></p>
+<pre><code>Module 1: Administrative Information
+├── 1.2 Summaries
+├── 1.3 Quality Overall Summary  
+├── 1.4 Nonclinical Overview and Summaries
+├── 1.5 Clinical Overview and Summaries
+├── 1.6 Clinical Summary
+├── [NEW] 1.7 AI/ML Governance Documentation ← RGDS decision logs
+│   ├── 1.7.1 AI Systems Used in Development
+│   ├── 1.7.2 Credibility Assessment Reports per AI System
+│   ├── 1.7.3 Human Review and Override Documentation
+│   └── 1.7.4 Ongoing Monitoring Plan for AI Models
+└── [NEW] 1.8 Decision Governance Summary ← RGDS portfolio overview
+    ├── 1.8.1 Key Phase Gate Decisions (decision logs summary)
+    ├── 1.8.2 Evidence Completeness Classifications
+    ├── 1.8.3 Risk Posture Articulation
+    └── 1.8.4 Contingency Plans
+</code></pre>
+<p><strong>Example Module 1.7.2 (AI Credibility Assessment Report) populated directly from RGDS decision logs:</strong></p>
+<p><strong>System: Medical Writing Automation (CoAuthor, Certara v3.2)</strong></p>
+<p><strong>Regulatory Question Addressed:</strong> Can AI-assisted drafting of Module 2.6.7 nonclinical summary support regulatory submission timeline without compromising scientific accuracy?</p>
+<p><strong>Context of Use:</strong> AI generates draft sections; qualified Medical Writer reviews and validates; Toxicology SME confirms scientific accuracy; final document signed by Medical Director.</p>
+<p><strong>Model Risk Assessment:</strong> Model influence = Medium (drafts sections; cannot override human judgment). Decision consequence = High (nonclinical summary critical for dose justification). Overall risk = Medium-High; credibility plan proportional.</p>
+<p><strong>Credibility Evidence:</strong></p>
+<blockquote>
+<ul>
+<li>Training: 1,200 published GLP reports + 500 FDA nonclinical summaries</li>
+<li>Factual accuracy: 92% (verified against source reports; 100% after human review)</li>
+<li>Severity interpretation: 76% (requires human override)</li>
+<li>Clinical relevance: 71% (requires subject matter expert validation)
+</li>
+</ul>
+</blockquote>
+<p><strong>Human Review Documentation:</strong></p>
+<blockquote>
+<ul>
+<li>Senior Medical Writer: Reviewed 100% of AI draft (8 hours). Flagged 3 sections for revision due to severity over-interpretation. All revisions completed.</li>
+<li>Toxicology SME: Reviewed 100% of final content (4 hours). Confirmed 100% scientific accuracy.</li>
+<li>Medical Director: Final review and approval (2 hours).
+</li>
+</ul>
+</blockquote>
+<p><strong>Limitations Identified:</strong></p>
+<blockquote>
+<ul>
+<li>AI lacks real-time access to detailed histopathology context; may over-interpret enzyme elevations</li>
+<li>Cannot independently assess species-specific reference ranges</li>
+<li>May weight statistical significance without biological plausibility evaluation</li>
+</ul>
+</blockquote>
+<p><strong>Ongoing Monitoring:</strong> Post-approval, AI-generated content quality monitored via (1) every Module 2 update reviewed by same tier structure, (2) quarterly accuracy benchmarking against new FDA guidance, (3) automated flagging if model performance degrades &gt;5% below training baseline.</p>
+<p><strong>Conclusion:</strong> AI-assisted content generation appropriate for Module 2.6.7 with documented human review and oversight. Credibility adequate for regulatory submission.</p>
+<hr />
+<h3 id="open-research-questions-on-ai-governance-disclosure">Open Research Questions on AI Governance Disclosure<a class="headerlink" href="#open-research-questions-on-ai-governance-disclosure" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p><strong>How prescriptive should FDA become on explainability requirements for "black-box" AI models?</strong> (e.g., requiring SHAP value analysis, saliency maps, or interpretability surrogates for deep learning models)</p>
+</li>
+<li>
+<p><strong>Should FDA require independent validation of AI models (by third-party audit) vs. allowing sponsor self-validation?</strong></p>
+</li>
+<li>
+<p><strong>How should FDA approach AI models that improve over time (continuous learning)?</strong> Should sponsors be required to re-validate performance quarterly?</p>
+</li>
+<li>
+<p><strong>What should be the threshold for FDA requesting full AI credibility documentation vs. simplified disclosure?</strong> (e.g., &lt;1% model influence → simplified; &gt;50% influence → full assessment)</p>
+</li>
+<li>
+<p><strong>How will FDA regulate commercial AI models (e.g., ChatGPT, Claude) used in drug development when training data is proprietary and not disclosed?</strong></p>
+</li>
+</ol>
+<hr />
+<h3 id="in-sum-what-this-data-says-about-question-9">In sum: what this data says about Question 9<a class="headerlink" href="#in-sum-what-this-data-says-about-question-9" title="Permanent link">&para;</a></h3>
+<p>The evidence shows that FDA's AI governance expectations are crystallizing around a core principle: <strong>AI assists humans; humans decide</strong>. RGDS satisfies this principle by treating AI as a documented instrument inside the decision log, with explicit confidence bounds, human review layers, and override rationale that together create an audit trail satisfying both current draft guidance and anticipated future mandates. Organizations that adopt this framework now gain competitive advantage by demonstrating governance maturity before it becomes a compliance requirement.</p>
+<ul>
+<li>
+<p><strong>Realistic, conservative conclusion:</strong> RGDS‑style AI governance (structured <code>aiassistance</code> object + multi‑tier human review + explicit overrides) can realistically satisfy FDA's January 2025 draft guidance expectations and anticipated 2027–2028 Phase 2 guidance requiring AI disclosure in Module 1.7–1.8 of eCTD submissions; organizations using this framework are unlikely to face AI‑related Form 483 observations or deficiency letters.</p>
+</li>
+<li>
+<p><strong>Main mechanisms:</strong> The <code>aiassistance</code> object records tool characteristics (name, version, fine‑tuning), task purpose and scope, confidence metrics (F1‑score, accuracy bands), human review findings from each tier (author, SME, QC, functional lead), explicit <code>humanoverride</code> entries showing what AI output was rejected and why, and final trustworthiness assessment tied to validation evidence.</p>
+</li>
+<li>
+<p><strong>Where RGDS helps vs. does not:</strong> It reliably improves <strong>AI transparency, FDA inspection readiness, and regulatory compliance</strong> for AI‑assisted content and decisions; it does <strong>not</strong> replace fundamental AI model validation, fix poor model selection for high‑risk tasks, or make general‑purpose LLMs appropriate for safety‑critical regulatory decisions without strong human validation.</p>
+</li>
+<li>
+<p><strong>FDA alignment:</strong> RGDS decision logs directly populate proposed eCTD Module 1.7 (AI/ML Governance Documentation) and Module 1.8 (Decision Governance Summary) sections anticipated in FDA's Phase 2 guidance (2027–2028), meaning sponsors investing in RGDS now will have audit‑ready documentation ready for those future requirements.</p>
+</li>
+<li>
+<p><strong>Pragmatic next move:</strong> For a sponsor using or considering AI tools for regulatory work (medical writing, regulatory intelligence, CMC simulation, clinical data reconciliation), the highest‑leverage starting point is to introduce RGDS <code>aiassistance</code> logging for one or two concrete AI use cases, enforce multi‑tier human review aligned with existing QA tiers, document overrides and rationale, and use early FDA interactions (pre‑submission meetings, pre‑approval inspections) to validate that this disclosure level meets expectations; scale to additional AI tools only after initial validation.</p>
+</li>
+</ul>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../q8/" class="btn btn-neutral float-left" title="8. Implementation Roadmaps"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../q10/" class="btn btn-neutral float-right" title="10. Regulatory Evolution">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+      <p>Copyright &copy; 2026 Mark Julius Banasihan<br></p>
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../q8/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../q10/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
