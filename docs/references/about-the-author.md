@@ -63,12 +63,13 @@ Mark is open to focused consulting, implementation partnerships, and collaborati
 
 ---
 
-### Connect
+## Connect
 
-- **GitHub:** https://github.com/mj3b  
-- **LinkedIn:** https://linkedin.com/in/markjuliusbanasihan  
-- **Email:** markjuliusbanasihan@gmail.com  
-- **Location:** Atlanta, Georgia, United States  
+- **GitHub:** [https://github.com/mj3b](https://github.com/mj3b)
+- **LinkedIn:** [https://linkedin.com/in/markjuliusbanasihan](https://linkedin.com/in/markjuliusbanasihan)
+- **Email:** [markjuliusbanasihan@gmail.com](mailto:markjuliusbanasihan@gmail.com)
+- **Location:** Atlanta, Georgia, United States
+
 
 
 
