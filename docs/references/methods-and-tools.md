@@ -25,7 +25,7 @@ The final bibliography comprises 96 entries, each confirmed for accuracy, access
 
 ### Citation Management
 
-All inline citations use the format `[\[N\]](bibliography/#citeN)` and link directly to the [Bibliography](bibliography/) page. Citations were audited in multiple passes to ensure that high-risk claims (financial projections, regulatory statistics, FDA deficiency rates) were traceable to primary or authoritative secondary sources. Where the framework extends or reinterprets an existing model—for example, adapting FDA's seven-step credibility framework—the extension is noted and the original source is cited.
+All inline citations use the format `[\[N\]](bibliography.md#citeN)` and link directly to the [Bibliography](bibliography/) page. Citations were audited in multiple passes to ensure that high-risk claims (financial projections, regulatory statistics, FDA deficiency rates) were traceable to primary or authoritative secondary sources. Where the framework extends or reinterprets an existing model—for example, adapting FDA's seven-step credibility framework—the extension is noted and the original source is cited.
 
 ---
 
