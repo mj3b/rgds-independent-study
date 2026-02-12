@@ -26,15 +26,15 @@ I thank the contributors and maintainers of the open-source tools used to build 
 
 In developing this project, I used AI-enabled tools—including large language models and web-based research platforms—to assist with literature discovery, evidence synthesis, schema design, drafting, and editing (November 2025 – January 2026). These tools supported organization, speed, and clarity but did not replace human judgment. I remain solely responsible for the selection, interpretation, and integration of all sources. All regulatory citations were verified against original agency documents, industry analyses were cross-checked with primary publications, technical implementations were tested against real-world use cases, and all 96 bibliography entries were confirmed for accuracy and accessibility.
 
-AI tools were not listed as authors or co-authors, consistent with ICMJE recommendations on AI-assisted technology in scholarly work. A detailed description of research tooling, AI-assisted workflows, and validation procedures is available in the [Supplementary Materials and Technical Notes](methods-and-tools/).
+AI tools were not listed as authors or co-authors, consistent with ICMJE recommendations on AI-assisted technology in scholarly work. A detailed description of research tooling, AI-assisted workflows, and validation procedures is available in the [Supplementary Materials and Technical Notes](methods-and-tools.md/).
 
 ---
 
 ## Research Integrity
 
-This work synthesizes publicly available research, regulatory guidance, industry analysis, and professional best practices. All direct citations reference the [complete bibliography](bibliography/), entries [1–96], with attribution provided throughout the framework.
+This work synthesizes publicly available research, regulatory guidance, industry analysis, and professional best practices. All direct citations reference the [complete bibliography](bibliography.md/), entries [1–96], with attribution provided throughout the framework.
 
-Where RGDS extends or reinterprets existing frameworks—for example, adapting FDA's seven-step credibility framework for decision-governance purposes—the extension is explicitly noted and the original source is cited. Financial analysis methodology and ROI modeling details are documented in [Appendix A](appendix-a/).
+Where RGDS extends or reinterprets existing frameworks—for example, adapting FDA's seven-step credibility framework for decision-governance purposes—the extension is explicitly noted and the original source is cited. Financial analysis methodology and ROI modeling details are documented in [Appendix A](appendix-a.md/).
 
 The goal is transparency: readers should be able to trace claims back to their sources and form their own judgments about the strength of evidence.
 
@@ -67,12 +67,12 @@ This documentation references the following repositories, licensed under the Apa
 
 - **Edition:** MkDocs web build
 - **Last updated:** 2026-01-09
-- **Bibliography:** See [complete bibliography](bibliography/)
-- **Financial appendix:** See [Appendix A: Financial Impact & ROI Analysis](appendix-a/)
-- **Supplementary materials:** See [Methods and Technical Notes](methods-and-tools/)
+- **Bibliography:** See [complete bibliography](bibliography.md/)
+- **Financial appendix:** See [Appendix A: Financial Impact & ROI Analysis](appendix-a.md/)
+- **Supplementary materials:** See [Methods and Technical Notes](methods-and-tools.md/)
 
 ---
 
 ## Citation Format
 
-All inline citations follow the format `[\[N\]](bibliography.md#citeN)` where N refers to the bibliography entry number. To view full citation details, visit the [Bibliography](bibliography/) page.
+All inline citations follow the format `[\[N\]](bibliography.md#citeN)` where N refers to the bibliography entry number. To view full citation details, visit the [Bibliography](bibliography.md/) page.
