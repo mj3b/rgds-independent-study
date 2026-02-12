@@ -6,7 +6,7 @@
 
 This page documents the research workflow, tooling, and validation practices underlying the RGDS framework. It is intended for readers who wish to audit the methods more closely, evaluate the robustness of the work beyond the main narrative, or understand how AI-assisted tools were used and governed throughout the project.
 
-The main [Acknowledgements](acknowledgements/) page provides a summary of intellectual influences and a brief AI disclosure. This page provides the operational detail.
+The main [Acknowledgements](acknowledgements.md/) page provides a summary of intellectual influences and a brief AI disclosure. This page provides the operational detail.
 
 ---
 
@@ -25,7 +25,7 @@ The final bibliography comprises 96 entries, each confirmed for accuracy, access
 
 ### Citation Management
 
-All inline citations use the format `[\[N\]](bibliography.md#citeN)` and link directly to the [Bibliography](bibliography/) page. Citations were audited in multiple passes to ensure that high-risk claims (financial projections, regulatory statistics, FDA deficiency rates) were traceable to primary or authoritative secondary sources. Where the framework extends or reinterprets an existing model—for example, adapting FDA's seven-step credibility framework—the extension is noted and the original source is cited.
+All inline citations use the format `[\[N\]](bibliography.md#citeN)` and link directly to the [Bibliography](bibliography.md/) page. Citations were audited in multiple passes to ensure that high-risk claims (financial projections, regulatory statistics, FDA deficiency rates) were traceable to primary or authoritative secondary sources. Where the framework extends or reinterprets an existing model—for example, adapting FDA's seven-step credibility framework—the extension is noted and the original source is cited.
 
 ---
 
@@ -77,7 +77,7 @@ All AI-generated output was treated as draft material subject to critical human 
 - **Regulatory citations** were verified against original FDA guidance documents, Federal Register entries, and agency source pages.
 - **Industry analyses** were cross-checked with primary publications from consulting firms, academic institutions, and professional organizations.
 - **Technical implementations** (JSON schemas, code examples, validation pipelines) were tested against real-world use cases and iterated based on results.
-- **Financial calculations** in [Appendix A](appendix-a/) were verified using established portfolio NPV and probability-of-success methodologies.
+- **Financial calculations** in [Appendix A](appendix-a.md/) were verified using established portfolio NPV and probability-of-success methodologies.
 - **All 96 bibliography entries** were confirmed for accuracy, accessibility, and direct source linkage.
 - **Framework positioning** was validated against regulatory precedent, published industry standards, and inspection-readiness expectations.
 - **Documentation structure and citation integrity** were audited across multiple passes for internal consistency.
@@ -133,6 +133,6 @@ Readers wishing to reproduce or extend this work can:
 1. Clone the RGDS repositories and review the schema, example logs, and governance covenant templates.
 2. Use the bibliography (entries 1–96) to trace every cited claim to its original source.
 3. Review this page to understand how AI tools were used and how their outputs were validated.
-4. Consult [Appendix A](appendix-a/) for financial analysis methodology and ROI modeling assumptions.
+4. Consult [Appendix A](appendix-a.md/) for financial analysis methodology and ROI modeling assumptions.
 
 The goal is to make the project fully interrogable: any claim, design choice, or analytic conclusion should be traceable to its evidence, and any reader should be able to form an independent judgment about the strength of that evidence.
