@@ -1,4 +1,4 @@
-site_name: "RGDS Independent Study — Decision-Centric AI Governance"
+site_name: "Independent Study — Regulated Gate Decision Support (RGDS)"
 site_description: A decision‑centric AI governance framework for regulated biopharma/biotech programs.
 
 theme:
@@ -24,6 +24,7 @@ nav:
       - Acknowledgements: references/acknowledgements.md
       - Bibliography: references/bibliography.md
       - Appendix A: references/appendix-a.md
+      - Supplementary Materials and Technical Notes: references/methods-and-tools.md  
 
 plugins:
   - search
