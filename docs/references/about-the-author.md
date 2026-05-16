@@ -1,5 +1,7 @@
 ## About the Author
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8121--2878-brightgreen)](https://orcid.org/0009-0001-8121-2878)
+
 **Mark Julius Banasihan** designs decision governance systems for high-stakes, regulated environments where speed, accountability, and defensibility must coexist.
 
 His work addresses a persistent failure mode in complex organizations: decisions that are technically sound yet operationally fragile because their rationale, evidence, and risk posture cannot be reconstructed under scrutiny. This failure becomes more pronounced as artificial intelligence accelerates analysis and execution without comparable discipline in decision ownership and documentation.
