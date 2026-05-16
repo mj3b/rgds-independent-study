@@ -1,6 +1,7 @@
 # RGDS: Decision-Centric AI Governance in Biopharma/Biotech Development
 
 *Mark Julius Banasihan · Independent Research · November 2025 – January 2026*
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20242004-blue)](https://doi.org/10.5281/zenodo.20242004)
 
 ---
 
@@ -140,7 +141,8 @@ Both repositories are licensed under the Apache License 2.0.
   year      = {2026},
   month     = {1},
   version   = {1.4},
-  url       = {https://github.com/mj3b/rgds-independent-study},
+  doi       = {10.5281/zenodo.20242004},
+  url       = {https://doi.org/10.5281/zenodo.20242004},
   license   = {Apache-2.0}
 }
 ```
