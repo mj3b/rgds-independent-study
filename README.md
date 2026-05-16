@@ -4,7 +4,7 @@
 
 [![Deploy MkDocs](https://github.com/mj3b/rgds-independent-study/actions/workflows/deploy-mkdocs.yml/badge.svg)](https://github.com/mj3b/rgds-independent-study/actions/workflows/deploy-mkdocs.yml)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![DOI: Independent Study](https://img.shields.io/badge/DOI-Independent%20Study-orange)](https://github.com/mj3b/rgds-independent-study)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20242004-blue)](https://doi.org/10.5281/zenodo.20242004)
 
 ---
 
@@ -120,6 +120,23 @@ ROI projections are modeled against a 5-IND portfolio using published benchmarks
 This project used Claude (Anthropic), Perplexity AI (deep research mode), and ChatGPT (OpenAI) for literature synthesis, framework development, schema design, documentation, and drafting (November 2025 – January 2026). All AI-generated output was treated as draft material subject to human review. All 96 bibliography entries were verified for accuracy, accessibility, and direct source linkage. The author assumes sole responsibility for selection, interpretation, integration, and accuracy of all content.
 
 Full disclosure is in [Supplementary Materials and Technical Notes](docs/references/methods-and-tools.md).
+
+---
+
+## Citation
+
+```bibtex
+@software{banasihan2026rgds,
+  author    = {Banasihan, Mark Julius},
+  title     = {{RGDS}: Decision-Centric {AI} Governance in Biopharma/Biotech Development},
+  year      = {2026},
+  month     = {1},
+  version   = {1.4},
+  doi       = {10.5281/zenodo.20242004},
+  url       = {https://doi.org/10.5281/zenodo.20242004},
+  license   = {Apache-2.0}
+}
+```
 
 ---
 

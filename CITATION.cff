@@ -25,6 +25,7 @@ authors:
 version: "1.4"
 date-released: "2026-01-09"
 license: Apache-2.0
+doi: 10.5281/zenodo.20242004
 repository-code: https://github.com/mj3b/rgds-independent-study
 url: https://mj3b.github.io/rgds-independent-study
 keywords:
