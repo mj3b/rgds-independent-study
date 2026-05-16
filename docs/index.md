@@ -1,6 +1,7 @@
 # RGDS: Decision-Centric AI Governance in Biopharma/Biotech Development
 
 *Mark Julius Banasihan · Independent Research · November 2025 – January 2026*
+
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20242004-blue)](https://doi.org/10.5281/zenodo.20242004)
 
 ---
