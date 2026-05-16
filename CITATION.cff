@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: >
+  If you reference this work in research, regulatory filings, or professional
+  publications, please cite it using the metadata below.
+type: software
+title: "RGDS: Regulated Gate Decision Support — Decision-Centric AI Governance in Biopharma/Biotech Development"
+abstract: >
+  An independent ten-question study on the design, implementation, and regulatory
+  implications of schema-validated decision logs in phase-gated biopharma/biotech
+  development. The RGDS framework addresses the reconstructability crisis that
+  drives 25–30% of FDA Complete Response Letters by treating decisions—not
+  documents—as the primary governance artifact. The study covers decision
+  reconstructability, AI accountability under FDA's January 2025 draft guidance,
+  integration overhead, FDA deficiency prevention, decision velocity, ROI modeling,
+  implementation phasing, AI governance disclosure, and regulatory mandate trajectory.
+authors:
+  - family-names: Banasihan
+    given-names: Mark Julius
+    orcid: ""
+    email: markjuliusbanasihan@gmail.com
+    affiliation: Independent Researcher
+    city: Atlanta
+    region: Georgia
+    country: US
+version: "1.4"
+date-released: "2026-01-09"
+license: Apache-2.0
+repository-code: https://github.com/mj3b/rgds-independent-study
+url: https://mj3b.github.io/rgds-independent-study
+keywords:
+  - AI governance
+  - biopharma
+  - biotech
+  - FDA
+  - decision governance
+  - regulatory affairs
+  - IND
+  - Complete Response Letter
+  - schema validation
+  - decision log
+  - reconstructability
+  - phase-gate governance
+  - non-agentic AI
+  - drug development
+references:
+  - type: software
+    title: "RGDS Core Framework — Decision Log Schemas and Governance Covenants"
+    authors:
+      - family-names: Banasihan
+        given-names: Mark Julius
+    repository-code: https://github.com/mj3b/rgds
+    license: Apache-2.0
+  - type: software
+    title: "RGDS AI Governance — Non-Agentic AI Constraints for Regulated Decision Support"
+    authors:
+      - family-names: Banasihan
+        given-names: Mark Julius
+    repository-code: https://github.com/mj3b/rgds-ai-governance
+    license: Apache-2.0
